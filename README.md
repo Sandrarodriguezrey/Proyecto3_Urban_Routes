@@ -5,9 +5,8 @@
 Urban Routes es una aplicación que crea rutas y calcula la duración y precio del viaje para diferentes tipos de transporte.
 Contiene dos campos para las direcciones: "Desde" y "Hasta". Además, cuenta con tres modos ("Óptimo", "Flash" y "Personal"), así como íconos para los tipos de transporte (automóvil del usuario, a pie, taxi, bicicleta, scooter o compartir un automóvil).
 Una vez el usuario establece sus ubicaciones "Desde" y "Hasta", la aplicación recibe esa información como puntos "A" y "B". Luego, calcula la duración total de viaje y el precio utilizando un algoritmo específico
-
-Vamos a probar en este proyecto, la funcionalidad de Compartir un automóvil en dos entornos:
-Google Chrome, resolución de pantalla 800x600 Y Firefox, resolución de pantalla 1920x1080
+ 
+Vamos a probar en este proyecto, la funcionalidad de Compartir un automóvil en el entorno Google Chrome, resolución de pantalla 800x600
 
 Analizaremos los diseños y requisitos de compartir un automóvil. En caso que los requisitos y los diseños no coincidan, nos concentraremos en los requisitos.
 
