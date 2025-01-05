@@ -38,7 +38,7 @@ El proyecto tiene 5 pasos obligatorios:
 
 **4. Casos de prueba para la función de alquiler de automóviles:** Se consultó la sección correspondiente a "Alquiler de automóvil" dentro de los requisitos y se diseñaron los casos de prueba basados en ello. Se verificaron tanto los escenarios positivos como negativos, asegurando que el sistema manejara correctamente todas las posibles situaciones.
 
-**5. Prueba de funcionalidad para compartir un automóvil:** Para validar esta funcionalidad, se utilizaron las listas de comprobación y casos de prueba previamente diseñados. Las pruebas se realizaron bajo dos configuraciones de entorno específicas: Google Chrome con resolución de pantalla 800x600 y Firefox con resolución de pantalla 1920x1080.  Los resultados de las pruebas se documentaron como "APROBADO" o "NO APROBADO". Para los casos "NO APROBADO", se generó un informe detallado de errores en JIRA para su seguimiento y resolución.
+**5. Prueba de funcionalidad para compartir un automóvil:** Para validar esta funcionalidad, se utilizaron las listas de comprobación y casos de prueba previamente diseñados. Las pruebas se realizaron bajo dos configuraciones de entorno específicas: Google Chrome con resolución de pantalla 800x600 y Firefox con resolución de pantalla 1920x1080; utilizando DevTools para verificar la compatibilidad y el comportamiento de la funcionalidad en estos diferentes navegadores y resoluciones. Los resultados de las pruebas se documentaron como "APROBADO" o "NO APROBADO". Para los casos "NO APROBADO", se generó un informe detallado de errores en JIRA para su seguimiento y resolución.
 
 ## Herramientas utilizadas:
 
@@ -46,13 +46,15 @@ El proyecto tiene 5 pasos obligatorios:
 
 **FIGMA** Para el diseño de interfaces y prototipos.
 
+**Devtools** Para realizar pruebas de compatibilidad en diferentes navegadores.
+
 **Documentación de los requisitos** Revisión y análisis detallado de los requisitos proporcionados para asegurar la alineación con los objetivos del proyecto.
 
 **Hojas de calculo** Google sheets, para seguimiento de los casos de prueba; así como la documentación de resultados.
 
 # CONCLUSIÓN
 
-En esta práctica de proyecto, pude aplicar y mejorar mis habilidades en pruebas de software!!. A través de la utilización de herramientas como JIRA y Figma, pude gestionar de manera efectiva los errores y documentar los casos de prueba, lo que fortaleció mi capacidad para garantizar la calidad en el desarrollo de productos. Ahora entiendo con mayor comprensión el ciclo de vida de las pruebas y me ha motivado a seguir perfeccionando mi enfoque analítico y mi capacidad para enfrentar nuevos retos en el campo del aseguramiento de calidad.
+En esta práctica de proyecto, pude aplicar y mejorar mis habilidades en pruebas de software!!. A través de la utilización de herramientas como JIRA, Figma, y DevTools ; pude gestionar de manera efectiva los errores y documentar los casos de prueba, lo que fortaleció mi capacidad para garantizar la calidad en el desarrollo de productos. Ahora entiendo con mayor comprensión el ciclo de vida de las pruebas y me ha motivado a seguir perfeccionando mi enfoque analítico y mi capacidad para enfrentar nuevos retos en el campo del aseguramiento de calidad.
 
 ************
 
